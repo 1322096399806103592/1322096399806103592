@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Different projects
-- 🌱 I’m currently learning Python and java
-- 💬 Ask me about Python and java
+- 🌱 I’m currently learning 
+- 💬 Ask me about Python
 - 😄 Pronouns: He
 - ⚡ Fun fact: 阿根廷耐力
