@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Different projects
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on Polentaware
 - 💬 Ask me about Python
 - 😄 Pronouns: He
-- ⚡ Fun fact: 阿根廷耐力
+- ⚡ Fun fact: Sporting Cristal >> alyamza lyña
